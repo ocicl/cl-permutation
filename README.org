@@ -1,0 +1,10 @@
+* cl-permutation
+
+Permutations and permutation groups in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tarballs-are-good/cl-permutation.git   |
+| commit  | 20c10e9  |
+| systems | cl-permutation |
+|---------+-------------------------------------------|
+
