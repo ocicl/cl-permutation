@@ -4,7 +4,7 @@ Permutations and permutation groups in Common Lisp.
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/tarballs-are-good/cl-permutation.git   |
-| commit  | 20c10e9  |
+| commit  | 6010e95  |
 | systems | cl-permutation |
 |---------+-------------------------------------------|
 
