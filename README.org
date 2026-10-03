@@ -2,10 +2,10 @@
 
 Permutations and permutation groups in Common Lisp.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/tarballs-are-good/cl-permutation.git   |
-| commit  | 6010e95  |
-| systems | cl-permutation |
-|---------+-------------------------------------------|
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/stylewarning/cl-permutation.git |
+| commit  | 6010e95                                                |
+| systems | cl-permutation                                         |
+|---------+--------------------------------------------------------|
 
   
